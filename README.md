@@ -2,7 +2,7 @@
 The task needed to be done here is to predict the spending and the factors which derive the spending of the customers through credit card.
 Following steps have been followed:-
 
-1. First the data frame has been created and then the EDA has been performed.
+1.First the data frame has been created and then the EDA has been performed.
 
 2.Data preperation has been performed, and the categorical features have been converted to numerical features using one-hot encoding.
 
@@ -10,6 +10,6 @@ Following steps have been followed:-
 
 4.Then multi-colinearity has been checked using VIF and further variables have been chosen.
 
-5. The final set of features have been taken to train various models.
+5.The final set of features have been taken to train various models.
 
-6. Finally, various models have been trained and evaluation metrics have been compared.
+6.Finally, various models have been trained and evaluation metrics have been compared.
