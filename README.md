@@ -1,5 +1,6 @@
 # credit_card_spend_regression
 The task needed to be done here is to predict the spending and the factors which derive the spending of the customers through credit card.
+Following steps have been followed:-
 
 1. First the data frame has been created and then the EDA has been performed.
 
