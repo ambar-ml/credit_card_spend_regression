@@ -6,7 +6,7 @@ Following steps have been followed:-
 
 2.Data preperation has been performed, and the categorical features have been converted to numerical features using one-hot encoding.
 
-3.After performing Eda variables have been chosed through pandas profiling and Random forest.
+3.After performing Eda variables have been chosen through pandas profiling and Random forest.
 
 4.Then multi-colinearity has been checked using VIF and further variables have been chosen.
 
